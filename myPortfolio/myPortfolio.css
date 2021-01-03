@@ -1,0 +1,59 @@
+.navItem {
+    background-color: blueviolet;
+}
+
+
+
+
+#about h1 {
+
+    font-family: 'Langar', cursive;
+}
+
+.container {
+    height:100%;
+    width: 100%;
+}
+
+#about {
+    background-color: coral;
+    width:100%;
+    
+}
+
+#myimage{
+    width: 200px;
+    height: 200px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(233, 133, 97);  
+    border-radius: 50%;
+    transition: 3s;
+    
+}
+
+.circle:hover {
+ 
+ background: url("img\peacesign.jpg") no-repeat;
+ border-radius: 50%;
+}
+
+.about {
+    border-radius: 40%;
+}
+
+.fab:hover {
+   font-weight: 400;
+}
+
+.footer {
+background-color: coral;
+}
+
+.social-icon {
+    color: black;
+}
+
